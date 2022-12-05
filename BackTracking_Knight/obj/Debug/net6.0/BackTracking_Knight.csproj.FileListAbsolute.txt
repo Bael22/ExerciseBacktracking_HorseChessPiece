@@ -1,0 +1,30 @@
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.exe
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.deps.json
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.runtimeconfig.json
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.dll
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.pdb
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.csproj.AssemblyReference.cache
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.AssemblyInfoInputs.cache
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.AssemblyInfo.cs
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.csproj.CoreCompileInputs.cache
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.dll
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\refint\BackTracking_Knight.dll
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.pdb
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.genruntimeconfig.cache
+E:\Desktop\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\ref\BackTracking_Knight.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.exe
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.deps.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.runtimeconfig.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\bin\Debug\net6.0\BackTracking_Knight.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.csproj.AssemblyReference.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.AssemblyInfoInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.AssemblyInfo.cs
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.csproj.CoreCompileInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\refint\BackTracking_Knight.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\BackTracking_Knight.genruntimeconfig.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\BackTracking_Knight\BackTracking_Knight\obj\Debug\net6.0\ref\BackTracking_Knight.dll
